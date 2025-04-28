@@ -317,9 +317,9 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2025
-- IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
-- IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
+- IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2025
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 -- 2025
 - European Conference on Computer Vision (ECCV) 2024
 - Conference on Robot Learning (CoRL) 2024
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+- IEEE/CVF International Conference on Computer Vision (ICCV) 2025
