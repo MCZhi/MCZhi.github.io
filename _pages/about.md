@@ -303,7 +303,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Lead organizer of Invited Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
 
 ## Associate Editor
-- OJ-ITS – IEEE Open Journal of Intelligent Transportation Systems
+- [OJ-ITS – IEEE Open Journal of Intelligent Transportation Systems](https://ieee-itss.org/pub/oj-its/board/)
 
 ## Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems 
