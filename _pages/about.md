@@ -276,6 +276,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2412.01812), Zewei Zhou, **Zhiyu Huang**, Bolei Zhou, Jiaqi Ma, **arXiv, 2024** [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code Stars)](https://github.com/Zewei-Zhou/V2XPnP)
 
 # 🎖 Honors and Awards
+- *2025.05* NTU MAE Best PhD Thesis Award
 - *2025.01* U.S. DOT Intersection Safety Challenge Tire 1 Winner
 - *2024.08* IEEE ITS Best Dissertation Award Finalist
 - *2024.07* Best Paper Award, [RSS 2024 workshop for Autonomous Vehicles Across Scale ](https://vindulamj.github.io/rss24-avas-workshop/)
@@ -323,3 +324,4 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Conference on Robot Learning (CoRL) 2024
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 - IEEE/CVF International Conference on Computer Vision (ICCV) 2025
+- Conference on Neural Information Processing Systems 2025
