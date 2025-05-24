@@ -15,6 +15,7 @@ I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobilit
 My research focuses on the intersection of robotics, mobility, and artificial intelligence (AI). I aim to develop algorithms and techniques that enable machines/robots to interact with humans naturally and make intelligent decisions. My research interests include deep learning, reinforcement learning, and generative AI, applied to areas such as perception, prediction, decision-making, simulation in autonomous driving, and human-machine interaction. My work has led to the publication of over 30 papers in top AI, ITS, and robotics journals and conferences. 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Honored to receive the NTU MAE Best PhD Thesis Award. Grateful for the recognition and support!
 - *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA!
 - *2024.12*: &nbsp;🎉🎉 Our paper on hybrid prediction integrated planning for autonomous driving has been accepted by TPAMI!
 - *2024.09*: &nbsp;🎉🎉 Our NAVSIM paper on end-to-end driving benchmark has been accepted at NeurIPS 2024 Datasets and Benchmarks Track!
@@ -300,8 +301,10 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 # 📚 Academic Services
 ## Program Committee
-- Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
-- Lead organizer of Invited Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
+- Lead organizer of Special Session on [Learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC 2023
+- Lead organizer of Invited Session on [Learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC 2024
+- Lead Organizer of Invited Session on [Foundation-Model-Enabled Scene Understanding and Decision-Making for Autonomous Driving](https://oscarhuangwind.github.io/ITSC2025_FoundationAD/) at ITSC 2025
+- Lead organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drive.google.com/file/d/15S2d7CYHggtyqPuzwNi0pMtXQSJU1xbo/view?usp=sharing) at ICCV 2025
 
 ## Associate Editor
 - [OJ-ITS – IEEE Open Journal of Intelligent Transportation Systems](https://ieee-itss.org/pub/oj-its/board/)
@@ -324,4 +327,4 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Conference on Robot Learning (CoRL) 2024
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 - IEEE/CVF International Conference on Computer Vision (ICCV) 2025
-- Conference on Neural Information Processing Systems 2025
+- Conference on Neural Information Processing Systems (NeurIPS) 2025
