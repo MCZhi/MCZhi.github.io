@@ -296,7 +296,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2017.10* National Scholarship (Top 1%)
 
 # 📖 Education
-- *2019 - 2024*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
+- *2019 - 2024*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore
+- *2023.07 – 2024.01*, Visiting Student Researcher, University of California, Berkeley, United States
 - *2015 - 2019*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
