@@ -31,7 +31,7 @@ My research focuses on the intersection of robotics, mobility, and artificial in
 
 # 📝 Publications
 ## Highlights
-<div class='paper-box'><div class='paper-box-image'><img src='images/gendrive.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**
