@@ -36,7 +36,7 @@ My research focuses on the intersection of robotics, mobility, and artificial in
 
 **AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**
 
-Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang†, Bolei Zhou, Jiaqi Ma
+Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang*, Bolei Zhou, Jiaqi Ma
 
 **arXiv, 2025**
 
