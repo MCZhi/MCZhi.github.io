@@ -34,6 +34,21 @@ My research focuses on the intersection of robotics, mobility, and artificial in
 <div class='paper-box'><div class='paper-box-image'><img src='images/gendrive.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**
+
+Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang†, Bolei Zhou, Jiaqi Ma
+
+**arXiv, 2025**
+
+[**Paper**](https://arxiv.org/abs/2506.13757) \| [**Project**](https://autovla.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code Stars)](https://github.com/ucla-mobility/AutoVLA)
+
+- We propose AutoVLA, a novel VLA model that unifies reasoning and action generation within a single autoregressive generation model for end-to-end autonomous driving. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/gendrive.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
 **Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning**
 
 Zhiyu Huang, Xinshuo Weng, Maximilian Igl, Yuxiao Chen, Yulong Cao, Boris Ivanovic, Marco Pavone, Chen Lv
