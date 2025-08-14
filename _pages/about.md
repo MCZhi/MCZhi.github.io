@@ -348,3 +348,4 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 - IEEE/CVF International Conference on Computer Vision (ICCV) 2025
 - Conference on Neural Information Processing Systems (NeurIPS) 2025
+- Annual AAAI Conference on Artificial Intelligence 2025
