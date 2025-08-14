@@ -269,6 +269,10 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ### Conference
+- [TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2508.04682), Zewei Zhou, Seth Z. Zhao, Tianhui Cai, **Zhiyu Huang\***, Bolei Zhou, Jiaqi Ma, **IEEE/CVF International Conference on Computer Vision (ICCV), 2025** [![](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code Stars)](https://github.com/ucla-mobility/TurboTrain)
+
+- [V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2412.01812), Zewei Zhou, ..., **Zhiyu Huang\***, Bolei Zhou, Jiaqi Ma, **IEEE/CVF International Conference on Computer Vision (ICCV), 2025** [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code Stars)](https://github.com/Zewei-Zhou/V2XPnP)
+
 - [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking](https://arxiv.org/abs/2406.15349), Daniel Dauner, Marcel Hallgarten, Tianyu Li, Xinshuo Weng, **Zhiyu Huang**, Zetong Yang, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, **Advances in Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks, 2024** [![](https://img.shields.io/github/stars/autonomousvision/navsim?style=social&label=Code Stars)](https://github.com/autonomousvision/navsim)
 
 - [Scalable Traffic Simulation for Autonomous Driving via Multi-Agent Goal Assignment and Autoregressive Goal-Directed Planning](https://ieeexplore.ieee.org/abstract/document/10588681/), Xiaoyu Mo, Haochen Liu, **Zhiyu Huang**, Jianwu Fang, Jianru Xue, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2024**
@@ -288,7 +292,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprint
-- [V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2412.01812), Zewei Zhou, **Zhiyu Huang**, Bolei Zhou, Jiaqi Ma, **arXiv, 2024** [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code Stars)](https://github.com/Zewei-Zhou/V2XPnP)
+- [RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors](https://arxiv.org/abs/2507.21567), Tianhui Cai, Yun Zhang, Zewei Zhou, **Zhiyu Huang\***, Jiaqi Ma, **arXiv, 2025** 
+
 
 # 🎖 Honors and Awards
 - *2025.05* NTU MAE Best PhD Thesis Award
