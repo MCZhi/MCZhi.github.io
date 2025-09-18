@@ -15,6 +15,7 @@ I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobilit
 My research lies at the intersection of robotics, mobility, and artificial intelligence. I focus on developing algorithms and techniques that enable physical AI agents to perceive their environment, interact with humans, and make intelligent decisions. My research interests include deep learning, reinforcement learning, and generative AI, with applications in perception, prediction, decision-making, and simulation for embodied AI, autonomous driving, and human-machine interaction. To date, I have authored over 30 papers published in leading journals and conferences in AI, ITS, and robotics.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper on VLA model for end-to-end autonomus driving has been accepted by NeurIPS!
 - *2025.06*: &nbsp;🎉🎉 Two papers on multi-agent cooperative perception and model training have been accepted for publication at ICCV!
 - *2025.05*: &nbsp;🎉🎉 Honored to receive the NTU MAE Best PhD Thesis Award. Grateful for the recognition and support!
 - *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA!
@@ -37,7 +38,7 @@ My research lies at the intersection of robotics, mobility, and artificial intel
 
 Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang*, Bolei Zhou, Jiaqi Ma
 
-**arXiv, 2025**
+**Advances in Neural Information Processing Systems (NeurIPS), 2025**
 
 [**Paper**](https://arxiv.org/abs/2506.13757) \| [**Project**](https://autovla.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code Stars)](https://github.com/ucla-mobility/AutoVLA)
 
