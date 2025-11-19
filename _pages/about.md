@@ -291,13 +291,9 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 
-- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Jingda Wu, **Zhiyu Huang**, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021**
-
-- [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
-
 ### Preprint
 - [RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors](https://arxiv.org/abs/2507.21567), Tianhui Cai, Yun Zhang, Zewei Zhou, **Zhiyu Huang\***, Jiaqi Ma, **arXiv, 2025** 
-
+- [MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection](https://arxiv.org/abs/2510.24688), Yun Zhang, Zhaoliang Zheng, Johnson Liu, **Zhiyu Huang\***, Zewei Zhou, Zonglin Meng, Tianhui Cai, Jiaqi Ma, **arXiv, 2025** 
 
 # 🎖 Honors and Awards
 - *2025.11* [UCLA Chancellor’s Awards for Postdoctoral Research](https://grad.ucla.edu/life-at-ucla/events/2024-postdoctoral-scholars-mentors-awards-ceremony/) Nominee
