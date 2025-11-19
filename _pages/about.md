@@ -300,7 +300,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 
 # 🎖 Honors and Awards
-- *2025.05* NTU MAE Best PhD Thesis Award
+- *2025.11* [UCLA Chancellor’s Awards for Postdoctoral Research](https://grad.ucla.edu/life-at-ucla/events/2024-postdoctoral-scholars-mentors-awards-ceremony/) Nominee
+- *2025.05* [NTU MAE Best PhD Thesis Award](https://www.linkedin.com/posts/ntumae_ntusg-ntumae-research-activity-7377165518023163904-P6DT/)
 - *2025.01* U.S. DOT Intersection Safety Challenge Tire 1 Winner
 - *2024.08* IEEE ITS Best Dissertation Award Finalist
 - *2024.07* Best Paper Award, [RSS 2024 workshop for Autonomous Vehicles Across Scale ](https://vindulamj.github.io/rss24-avas-workshop/)
