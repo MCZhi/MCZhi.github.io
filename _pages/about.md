@@ -34,7 +34,7 @@ My research lies at the intersection of robotics, mobility, and artificial intel
 
 # 📝 Publications
 ## Highlights
-<div class='paper-box'><div class='paper-box-image'><img src='images/vbd.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/MDG.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments**
