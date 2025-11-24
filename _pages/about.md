@@ -34,6 +34,21 @@ My research lies at the intersection of robotics, mobility, and artificial intel
 
 # 📝 Publications
 ## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/vbd.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments**
+
+Zhiyu Huang, Zewei Zhou, Tianhui Cai, Yun Zhang, Jiaqi Ma
+
+**arXiv, 2025**
+
+[**Paper**](https://arxiv.org/abs/2511.17496) 
+
+-  We propose Masked Denoising Generation (MDG), a unified generative framework that reformulates multi-agent behavior modeling as the reconstruction of independently noised spatiotemporal tensors.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
