@@ -86,7 +86,7 @@ Zhiyu Huang, Xinshuo Weng, Maximilian Igl, Yuxiao Chen, Yulong Cao, Boris Ivanov
 
 Zhiyu Huang, Zixu Zhang, Ameya Vaidya, Yuxiao Chen, Chen Lv, Jaime Fernández Fisac
 
-**arXiv, 2024**
+**IEEE Transactions on Intelligent Transportation Systems, 2025**
 
 [**Paper**](https://arxiv.org/abs/2404.02524) \| [**Project**](https://sites.google.com/view/versatile-behavior-diffusion) \| [![](https://img.shields.io/github/stars/SafeRoboticsLab/VBD?style=social&label=Code Stars)](https://github.com/SafeRoboticsLab/VBD)
 
