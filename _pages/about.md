@@ -341,6 +341,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Lead organizer of Invited Session on [Learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC 2024
 - Lead Organizer of Invited Session on [Foundation-Model-Enabled Scene Understanding and Decision-Making for Autonomous Driving](https://oscarhuangwind.github.io/ITSC2025_FoundationAD/) at ITSC 2025
 - Lead organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at ICCV 2025
+- Lead organizer of Workshop on [Foundation Models for V2X-based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026
 
 ## Associate Editor
 - [OJ-ITS – IEEE Open Journal of Intelligent Transportation Systems](https://ieee-itss.org/pub/oj-its/board/)
@@ -356,12 +357,13 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Artificial Intelligence Review 
 
 ## Conference Reviewer
-- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2025
-- IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2025
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 -- 2025
-- European Conference on Computer Vision (ECCV) 2024
-- Conference on Robot Learning (CoRL) 2024
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
-- IEEE/CVF International Conference on Computer Vision (ICCV) 2025
-- Conference on Neural Information Processing Systems (NeurIPS) 2025
-- Annual AAAI Conference on Artificial Intelligence 2025
+- IEEE International Conference on Robotics and Automation (ICRA) 
+- IEEE Intelligent Transportation Systems Conference (ITSC) 
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+- European Conference on Computer Vision (ECCV) 
+- Conference on Robot Learning (CoRL) 
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
+- IEEE/CVF International Conference on Computer Vision (ICCV) 
+- Conference on Neural Information Processing Systems (NeurIPS)
+- Annual AAAI Conference on Artificial Intelligence 
+- International Conference on Machine Learning
