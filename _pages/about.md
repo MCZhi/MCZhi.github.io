@@ -288,6 +288,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ### Conference
+- [RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors](https://arxiv.org/abs/2507.21567), Tianhui Cai, Yun Zhang, Zewei Zhou, **Zhiyu Huang\***, Jiaqi Ma, **IEEE International Conference on Robotics and Automation (ICRA), 2026** 
+
 - [Driving with Regulation: Trustworthy and Interpretable Decision-Making for Autonomous Driving with Retrieval-Augmented Reasoning](https://arxiv.org/abs/2410.04759), Tianhui Cai, Yifan Liu, Zewei Zhou, Haoxuan Ma, Seth Z. Zhao, Zhiwen Wu, Xu Han, **Zhiyu Huang\***, Jiaqi Ma, **AAAI Conference on Artificial Intelligence, 2026**.
 
 - [TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2508.04682), Zewei Zhou, Seth Z. Zhao, Tianhui Cai, **Zhiyu Huang\***, Bolei Zhou, Jiaqi Ma, **IEEE/CVF International Conference on Computer Vision (ICCV), 2025** [![](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code Stars)](https://github.com/ucla-mobility/TurboTrain)
@@ -309,7 +311,6 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 
 ### Preprint
-- [RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors](https://arxiv.org/abs/2507.21567), Tianhui Cai, Yun Zhang, Zewei Zhou, **Zhiyu Huang\***, Jiaqi Ma, **arXiv, 2025** 
 - [MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection](https://arxiv.org/abs/2510.24688), Yun Zhang, Zhaoliang Zheng, Johnson Liu, **Zhiyu Huang\***, Zewei Zhou, Zonglin Meng, Tianhui Cai, Jiaqi Ma, **arXiv, 2025** 
 
 # 🎖 Honors and Awards
