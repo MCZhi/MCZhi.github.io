@@ -34,6 +34,21 @@ My research lies at the intersection of robotics, mobility, and artificial intel
 
 # 📝 Publications
 ## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/TICVLA.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments**
+
+Zhiyu Huang, Yun Zhang, Johnson Liu, Rui Song, Chen Tang, Jiaqi Ma
+
+**arXiv, 2026**
+
+[**Paper**](https://arxiv.org/abs/2602.02459) \| [**Project**](https://ucla-mobility.github.io/TIC-VLA/) \| [![](https://img.shields.io/github/stars/ucla-mobility/TIC-VLA?style=social&label=Code Stars)](https://ucla-mobility.github.io/TIC-VLA/)
+
+-  We introduce Think-in-Control (TIC)-VLA, a latency-aware framework that explicitly models delayed semantic reasoning during action generation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/MDG.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
