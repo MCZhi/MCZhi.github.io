@@ -358,7 +358,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Lead organizer of Special Session on [Learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC 2023
 - Lead organizer of Invited Session on [Learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC 2024
 - Lead Organizer of Invited Session on [Foundation-Model-Enabled Scene Understanding and Decision-Making for Autonomous Driving](https://oscarhuangwind.github.io/ITSC2025_FoundationAD/) at ITSC 2025
-- Lead organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at ICCV 2025
+- Lead organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://ucla-mobility.github.io/drivex-tutorial/) at ICCV 2025
 - Lead organizer of Workshop on [Foundation Models for V2X-based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026
 
 ## Associate Editor
