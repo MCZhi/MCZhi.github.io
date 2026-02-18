@@ -16,7 +16,7 @@ My research lies at the intersection of robotics, mobility, and artificial intel
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Our paper on regulation-aware decision-making for autonomous driving with LLM has been accepted by AAAI!
-- *2025.10*: &nbsp;🎉🎉 We organized a tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at ICCV.
+- *2025.10*: &nbsp;🎉🎉 We organized a tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://ucla-mobility.github.io/drivex-tutorial/) at ICCV.
 - *2025.09*: &nbsp;🎉🎉 I was listed on [Stanford/Elsevier Top 2% Scientists list](https://topscinet.com/scientist_profile/Huang,%20Zhiyu/2019/?stype=single_year) (Artificial Intelligence & Image Processing, Single-year impact)
 - *2025.09*: &nbsp;🎉🎉 Our paper on VLA model for end-to-end autonomus driving has been accepted by NeurIPS!
 - *2025.06*: &nbsp;🎉🎉 Two papers on multi-agent cooperative perception and model training have been accepted for publication at ICCV!
