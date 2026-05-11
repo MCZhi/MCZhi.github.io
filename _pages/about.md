@@ -99,7 +99,7 @@ Zhiyu Huang, Zixu Zhang, Ameya Vaidya, Yuxiao Chen, Chen Lv, Jaime Fernández Fi
 
 **IEEE Transactions on Intelligent Transportation Systems, 2025**
 
-[**Paper**](https://arxiv.org/abs/2404.02524) \| [**Project**](https://sites.google.com/view/versatile-behavior-diffusion) \| [![](https://img.shields.io/github/stars/SafeRoboticsLab/VBD?style=social&label=Code Stars)](https://github.com/SafeRoboticsLab/VBD)
+[**Paper**](https://arxiv.org/abs/2404.02524) \| [**Project**](https://sites.google.com/view/versatile-behavior-diffusion) \| [![](https://img.shields.io/github/stars/saferoboticslab/vbd?style=social&label=Code Stars)](https://github.com/SafeRoboticsLab/VBD)
 
 -  We propose VBD, a novel traffic scenario generation framework that utilizes diffusion generative models to predict scene-consistent and controllable multi-agent interactions in closed-loop settings.
 </div>
