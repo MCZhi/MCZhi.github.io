@@ -39,7 +39,7 @@ Zhiyu Huang, Yun Zhang, Johnson Liu, Rui Song, Chen Tang, Jiaqi Ma
 
 **International Conference on Machine Learning (ICML), 2026**
 
-[**Paper**](https://arxiv.org/abs/2602.02459) \| [**Project**](https://ucla-mobility.github.io/TIC-VLA/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code Stars)](https://github.com/ucla-mobility/TIC-VLA)
+[**Paper**](https://arxiv.org/abs/2602.02459) \| [**Project**](https://ucla-mobility.github.io/TIC-VLA/) \| [![](https://img.shields.io/github/stars/ucla-mobility/TIC-VLA?style=social&label=Code Stars)](https://github.com/ucla-mobility/TIC-VLA)
 
 -  We introduce Think-in-Control (TIC)-VLA, a latency-aware framework that explicitly models delayed semantic reasoning during action generation.
 </div>
