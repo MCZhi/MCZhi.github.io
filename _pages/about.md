@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/), working under the guidance of Prof. Jiaqi Ma. **Starting in Fall 2026, I will join North Carolina State University (NCSU) as an Assistant Professor, where I will launch the PARIS Lab (Physical AI, Robotics, and Intelligent Systems Lab).** Previously, I was a research intern at the [NVIDIA Research Autonomous Vehicle Group](https://research.nvidia.com/labs/avg/) and a visiting student researcher at UC Berkeley in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/). I earned my Ph.D. from Nanyang Technological University (NTU), where I conducted research in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan) under the supervision of Prof. Chen Lyu.
+I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/). **Starting in Fall 2026, I will join North Carolina State University (NCSU) as an Assistant Professor, where I will launch the PARIS Lab (Physical AI, Robotics, and Intelligent Systems Lab).** Previously, I was a research intern at the [NVIDIA Research Autonomous Vehicle Group](https://research.nvidia.com/labs/avg/) and a visiting student researcher at UC Berkeley in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/). I earned my Ph.D. from Nanyang Technological University (NTU), where I conducted research in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan).
 
 My research lies at the intersection of intelligent systems, robotics, and physical AI. I develop generalizable algorithms and systems that enable physical intelligent agents to perceive and understand the world, interact seamlessly with humans and complex environments, reason and make decisions, and execute dexterous actions in the physical world. My work broadly spans machine learning, including deep learning, reinforcement learning, and generative AI, with applications in perception, world modeling, decision-making, control, and simulation for robotics, embodied intelligence, and autonomous systems. To date, I have authored over 40 papers published in leading journals and conferences across AI, robotics, and intelligent systems.
 
@@ -39,7 +39,7 @@ Zhiyu Huang, Yun Zhang, Johnson Liu, Rui Song, Chen Tang, Jiaqi Ma
 
 **International Conference on Machine Learning (ICML), 2026**
 
-[**Paper**](https://arxiv.org/abs/2602.02459) \| [**Project**](https://ucla-mobility.github.io/TIC-VLA/) \| [![](https://img.shields.io/github/stars/ucla-mobility/TIC-VLA?style=social&label=Code Stars)](https://github.com/ucla-mobility/TIC-VLA)
+[**Paper**](https://arxiv.org/abs/2602.02459) \| [**Project**](https://ucla-mobility.github.io/TIC-VLA/) \| [![](https://img.shields.io/github/stars/ucla-mobility/tic-vla?style=social&label=Code Stars)](https://github.com/ucla-mobility/TIC-VLA)
 
 -  We introduce Think-in-Control (TIC)-VLA, a latency-aware framework that explicitly models delayed semantic reasoning during action generation.
 </div>
