@@ -290,7 +290,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/abs/2106.12194), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2022**
 
-- [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022** [![](https://img.shields.io/github/stars/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving?style=social&label=Code Stars)](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
+- [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
 
 - [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022** [![](https://img.shields.io/github/stars/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning?style=social&label=Code Stars)](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning)
 
@@ -305,7 +305,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Driving with Regulation: Trustworthy and Interpretable Decision-Making for Autonomous Driving with Retrieval-Augmented Reasoning](https://arxiv.org/abs/2410.04759), Tianhui Cai, Yifan Liu, Zewei Zhou, Haoxuan Ma, Seth Z. Zhao, Zhiwen Wu, Xu Han, **Zhiyu Huang\***, Jiaqi Ma, **AAAI Conference on Artificial Intelligence, 2026**.
 
-- [TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2508.04682), Zewei Zhou, Seth Z. Zhao, Tianhui Cai, **Zhiyu Huang\***, Bolei Zhou, Jiaqi Ma, **IEEE/CVF International Conference on Computer Vision (ICCV), 2025** [![](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code Stars)](https://github.com/ucla-mobility/TurboTrain)
+- [TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2508.04682), Zewei Zhou, Seth Z. Zhao, Tianhui Cai, **Zhiyu Huang\***, Bolei Zhou, Jiaqi Ma, **IEEE/CVF International Conference on Computer Vision (ICCV), 2025** 
 
 - [V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2412.01812), Zewei Zhou, ..., **Zhiyu Huang\***, Bolei Zhou, Jiaqi Ma, **IEEE/CVF International Conference on Computer Vision (ICCV), 2025** [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code Stars)](https://github.com/Zewei-Zhou/V2XPnP)
 
@@ -315,7 +315,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP)
 
-- [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023** [![](https://img.shields.io/github/stars/georgeliu233/STrajNet?style=social&label=Code Stars)](https://github.com/georgeliu233/STrajNet)
+- [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023**
 
 - [Stochastic Multimodal Interaction Prediction for Urban Driving](https://ieeexplore.ieee.org/abstract/document/9922298), Xiaoyu Mo, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 
