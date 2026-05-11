@@ -176,7 +176,7 @@ Zhiyu Huang, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
 [**Best Paper Runner-up Award**](https://2023.ieee-itsc.org/best-paper-awards/)
 
-[**Paper**](https://arxiv.org/abs/2302.03939) \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
+[**Paper**](https://arxiv.org/abs/2302.03939) \| [![](https://img.shields.io/github/stars/MCZhi/predictive-decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
 
 -  We propose an interaction-aware motion prediction model that is able to predict other agents' future trajectories according to the ego agent's future plans, i.e., their reactions to the ego's actions.
 </div>
@@ -358,7 +358,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Lead Organizer of Invited Session on [Foundation-Model-Enabled Scene Understanding and Decision-Making for Autonomous Driving](https://oscarhuangwind.github.io/ITSC2025_FoundationAD/) at ITSC 2025
 - Lead organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://ucla-mobility.github.io/drivex-tutorial/) at ICCV 2025
 - Lead organizer of Workshop on [Foundation Models for V2X-based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026
-
+- Lead organizer of Workshop on [Foundation Models for Autonomous Driving](https://drivex-workshop.github.io/eccv2026/) at ECCV 2026
+- 
 ## Associate Editor
 - [OJ-ITS – IEEE Open Journal of Intelligent Transportation Systems](https://ieee-itss.org/pub/oj-its/board/)
 
