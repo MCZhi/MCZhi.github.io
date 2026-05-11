@@ -10,11 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/), working under the guidance of Prof. Jiaqi Ma. Previously, I was a research intern at the [NVIDIA Research Autonomous Vehicle Group](https://research.nvidia.com/labs/avg/) and a visiting student researcher at UC Berkeley in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/). I earned my Ph.D. from Nanyang Technological University (NTU), where I conducted research in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan) under the supervision of Prof. Chen Lyu.
+I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/), working under the guidance of Prof. Jiaqi Ma. **Starting in Fall 2026, I will join North Carolina State University (NCSU) as an Assistant Professor, where I will launch the PARIS Lab (Physical AI, Robotics, and Intelligent Systems Lab).** Previously, I was a research intern at the [NVIDIA Research Autonomous Vehicle Group](https://research.nvidia.com/labs/avg/) and a visiting student researcher at UC Berkeley in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/). I earned my Ph.D. from Nanyang Technological University (NTU), where I conducted research in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan) under the supervision of Prof. Chen Lyu.
 
-My research lies at the intersection of robotics, mobility, and artificial intelligence. I focus on developing algorithms and techniques that enable physical AI agents to perceive their environment, interact with humans, and make intelligent decisions. My research interests include deep learning, reinforcement learning, and generative AI, with applications in perception, prediction, decision-making, and simulation for embodied AI, autonomous driving, and human-machine interaction. To date, I have authored over 30 papers published in leading journals and conferences in AI, ITS, and robotics.
+My research lies at the intersection of intelligent systems, robotics, and physical AI. I develop generalizable algorithms and systems that enable physical intelligent agents to perceive and understand the world, interact seamlessly with humans and complex environments, reason and make decisions, and execute dexterous actions in the physical world. My work broadly spans machine learning, including deep learning, reinforcement learning, and generative AI, with applications in perception, world modeling, decision-making, control, and simulation for robotics, embodied intelligence, and autonomous systems. To date, I have authored over 40 papers published in leading journals and conferences across AI, robotics, and intelligent systems.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Two papers on efficient VLA and 3D scene reconstruction have been accepted to ICML 2026!
+- *2026.03*: &nbsp;🎉🎉 Our paper on masked generation for traffic scenarios has been accepted to CVPR 2026 (Findings)!
 - *2025.11*: &nbsp;🎉🎉 Our paper on regulation-aware decision-making for autonomous driving with LLM has been accepted by AAAI!
 - *2025.10*: &nbsp;🎉🎉 We organized a tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://ucla-mobility.github.io/drivex-tutorial/) at ICCV.
 - *2025.09*: &nbsp;🎉🎉 I was listed on [Stanford/Elsevier Top 2% Scientists list](https://topscinet.com/scientist_profile/Huang,%20Zhiyu/2019/?stype=single_year) (Artificial Intelligence & Image Processing, Single-year impact)
@@ -24,12 +26,6 @@ My research lies at the intersection of robotics, mobility, and artificial intel
 - *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA!
 - *2024.12*: &nbsp;🎉🎉 Our paper on hybrid prediction integrated planning for autonomous driving has been accepted by TPAMI!
 - *2024.09*: &nbsp;🎉🎉 Our NAVSIM paper on end-to-end driving benchmark has been accepted at NeurIPS 2024 Datasets and Benchmarks Track!
-- *2024.05*: &nbsp;🎉🎉 Our paper on online belief prediction and POMDP planning has been accepted by RAL!
-- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA!
-- *2023.11*: &nbsp;🎥🎥 I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
-- *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
-- *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
-- *2023.09*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for robot navigation has been accepted by TPAMI!
 
 
 # 📝 Publications
@@ -41,7 +37,7 @@ My research lies at the intersection of robotics, mobility, and artificial intel
 
 Zhiyu Huang, Yun Zhang, Johnson Liu, Rui Song, Chen Tang, Jiaqi Ma
 
-**arXiv, 2026**
+**International Conference on Machine Learning (ICML), 2026**
 
 [**Paper**](https://arxiv.org/abs/2602.02459) \| [**Project**](https://ucla-mobility.github.io/TIC-VLA/) \| [![](https://img.shields.io/github/stars/ucla-mobility/TIC-VLA?style=social&label=Code Stars)](https://ucla-mobility.github.io/TIC-VLA/)
 
@@ -56,7 +52,7 @@ Zhiyu Huang, Yun Zhang, Johnson Liu, Rui Song, Chen Tang, Jiaqi Ma
 
 Zhiyu Huang, Zewei Zhou, Tianhui Cai, Yun Zhang, Jiaqi Ma
 
-**arXiv, 2025**
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026**
 
 [**Paper**](https://arxiv.org/abs/2511.17496) 
 
@@ -303,6 +299,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ### Conference
+- [EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](https://arxiv.org/abs/2604.26238), Rui Song, Tianhui Cai, Markus Gross, Yun Zhang, Walter Zimmer, **Zhiyu Huang**, Olaf Wysocki, Jiaqi Ma, **International Conference on Machine Learning (ICML), 2026**
+
 - [RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors](https://arxiv.org/abs/2507.21567), Tianhui Cai, Yun Zhang, Zewei Zhou, **Zhiyu Huang\***, Jiaqi Ma, **IEEE International Conference on Robotics and Automation (ICRA), 2026** 
 
 - [Driving with Regulation: Trustworthy and Interpretable Decision-Making for Autonomous Driving with Retrieval-Augmented Reasoning](https://arxiv.org/abs/2410.04759), Tianhui Cai, Yifan Liu, Zewei Zhou, Haoxuan Ma, Seth Z. Zhao, Zhiwen Wu, Xu Han, **Zhiyu Huang\***, Jiaqi Ma, **AAAI Conference on Artificial Intelligence, 2026**.
