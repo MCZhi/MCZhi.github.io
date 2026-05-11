@@ -359,7 +359,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Lead organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://ucla-mobility.github.io/drivex-tutorial/) at ICCV 2025
 - Lead organizer of Workshop on [Foundation Models for V2X-based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026
 - Lead organizer of Workshop on [Foundation Models for Autonomous Driving](https://drivex-workshop.github.io/eccv2026/) at ECCV 2026
-- 
+
 ## Associate Editor
 - [OJ-ITS – IEEE Open Journal of Intelligent Transportation Systems](https://ieee-itss.org/pub/oj-its/board/)
 
