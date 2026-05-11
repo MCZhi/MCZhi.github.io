@@ -67,7 +67,7 @@ Zhiyu Huang, Zewei Zhou, Tianhui Cai, Yun Zhang, Jiaqi Ma
 
 Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang*, Bolei Zhou, Jiaqi Ma
 
-**Advances in Neural Information Processing Systems (NeurIPS), 2025**
+**Neural Information Processing Systems (NeurIPS), 2025**
 
 [**Paper**](https://arxiv.org/abs/2506.13757) \| [**Project**](https://autovla.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code Stars)](https://github.com/ucla-mobility/AutoVLA)
 
