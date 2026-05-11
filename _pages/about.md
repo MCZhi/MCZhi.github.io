@@ -39,7 +39,7 @@ Zhiyu Huang, Yun Zhang, Johnson Liu, Rui Song, Chen Tang, Jiaqi Ma
 
 **International Conference on Machine Learning (ICML), 2026**
 
-[**Paper**](https://arxiv.org/abs/2602.02459) \| [**Project**](https://ucla-mobility.github.io/TIC-VLA/) \| [![](https://img.shields.io/github/stars/ucla-mobility/TIC-VLA?style=social&label=Code Stars)](https://ucla-mobility.github.io/TIC-VLA/)
+[**Paper**](https://arxiv.org/abs/2602.02459) | [**Project**](https://ucla-mobility.github.io/TIC-VLA/) | [![Code Stars](https://img.shields.io/github/stars/ucla-mobility/TIC-VLA?style=social&label=Code%20Stars)](https://github.com/ucla-mobility/TIC-VLA)
 
 -  We introduce Think-in-Control (TIC)-VLA, a latency-aware framework that explicitly models delayed semantic reasoning during action generation.
 </div>
@@ -278,7 +278,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Safety-Aware Human-in-the-Loop Reinforcement Learning With Shared Control for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10596046), Wenhui Huang, Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems** [![](https://img.shields.io/github/stars/OscarHuangWind/Safe-Human-in-the-Loop-RL?style=social&label=Code Stars)](https://github.com/OscarHuangWind/Safe-Human-in-the-Loop-RL)
 
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
+- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![Code Stars](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code%20Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer)
 
 - [Transformer-Based Traffic-Aware Predictive Energy Management of a Fuel Cell Electric Vehicle](https://ieeexplore.ieee.org/abstract/document/10409570), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2024**
 
@@ -368,7 +368,6 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE Transactions on Intelligent Vehicles 
 - IEEE Transactions on Cybernetics
 - IEEE Robotics and Automation Letters
-- Transportation Research Part C: Emerging Technologies
 - Engineering Applications of Artificial Intelligence
 - Artificial Intelligence Review 
 
@@ -382,4 +381,4 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE/CVF International Conference on Computer Vision (ICCV) 
 - Conference on Neural Information Processing Systems (NeurIPS)
 - Annual AAAI Conference on Artificial Intelligence 
-- International Conference on Machine Learning
+- International Conference on Machine Learning (ICML)
