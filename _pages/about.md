@@ -15,17 +15,18 @@ I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobilit
 My research lies at the intersection of intelligent systems, robotics, and physical AI. I develop generalizable algorithms and systems that enable physical intelligent agents to perceive and understand the world, interact seamlessly with humans and complex environments, reason and make decisions, and execute dexterous actions in the physical world. My work broadly spans machine learning, including deep learning, reinforcement learning, and generative AI, with applications in perception, world modeling, decision-making, control, and simulation for robotics, embodied intelligence, and autonomous systems. To date, I have authored over 40 papers published in leading journals and conferences across AI, robotics, and intelligent systems.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 We will organize a workshop on [Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026. See you in Denver, Colorado!
 - *2026.05*: &nbsp;🎉🎉 Two papers on efficient VLA and 3D scene reconstruction have been accepted to ICML 2026!
 - *2026.03*: &nbsp;🎉🎉 Our paper on masked generation for traffic scenarios has been accepted to CVPR 2026 (Findings)!
-- *2025.11*: &nbsp;🎉🎉 Our paper on regulation-aware decision-making for autonomous driving with LLM has been accepted by AAAI!
-- *2025.10*: &nbsp;🎉🎉 We organized a tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://ucla-mobility.github.io/drivex-tutorial/) at ICCV.
+- *2025.11*: &nbsp;🎉🎉 Our paper on regulation-aware decision-making for autonomous driving with LLM has been accepted by AAAI 2026!
+- *2025.10*: &nbsp;🎉🎉 We organized a tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://ucla-mobility.github.io/drivex-tutorial/) at ICCV 2025.
 - *2025.09*: &nbsp;🎉🎉 I was listed on [Stanford/Elsevier Top 2% Scientists list](https://topscinet.com/scientist_profile/Huang,%20Zhiyu/2019/?stype=single_year) (Artificial Intelligence & Image Processing, Single-year impact)
-- *2025.09*: &nbsp;🎉🎉 Our paper on VLA model for end-to-end autonomus driving has been accepted by NeurIPS!
-- *2025.06*: &nbsp;🎉🎉 Two papers on multi-agent cooperative perception and model training have been accepted for publication at ICCV!
+- *2025.09*: &nbsp;🎉🎉 Our paper on VLA model for end-to-end autonomus driving has been accepted by NeurIPS 2025!
+- *2025.06*: &nbsp;🎉🎉 Two papers on multi-agent cooperative perception and model training have been accepted for publication at ICCV 2025!
 - *2025.05*: &nbsp;🎉🎉 Honored to receive the NTU MAE Best PhD Thesis Award. Grateful for the recognition and support!
-- *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA!
+- *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA 2025!
 - *2024.12*: &nbsp;🎉🎉 Our paper on hybrid prediction integrated planning for autonomous driving has been accepted by TPAMI!
-- *2024.09*: &nbsp;🎉🎉 Our NAVSIM paper on end-to-end driving benchmark has been accepted at NeurIPS 2024 Datasets and Benchmarks Track!
+- *2024.09*: &nbsp;🎉🎉 Our paper on end-to-end driving benchmark has been accepted at NeurIPS 2024 2024!
 
 
 # 📝 Publications
