@@ -26,7 +26,7 @@ My research lies at the intersection of intelligent systems, robotics, and physi
 - *2025.05*: &nbsp;🎉🎉 Honored to receive the NTU MAE Best PhD Thesis Award. Grateful for the recognition and support!
 - *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA 2025!
 - *2024.12*: &nbsp;🎉🎉 Our paper on hybrid prediction integrated planning for autonomous driving has been accepted by TPAMI!
-- *2024.09*: &nbsp;🎉🎉 Our paper on end-to-end driving benchmark has been accepted at NeurIPS 2024 2024!
+- *2024.09*: &nbsp;🎉🎉 Our paper on end-to-end driving benchmark has been accepted at NeurIPS 2024!
 
 
 # 📝 Publications
