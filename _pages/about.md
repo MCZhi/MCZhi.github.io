@@ -15,7 +15,7 @@ I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobilit
 My research lies at the intersection of intelligent systems, robotics, and physical AI. I develop generalizable algorithms and systems that enable physical intelligent agents to perceive and understand the world, interact seamlessly with humans and complex environments, reason and make decisions, and execute dexterous actions in the physical world. My work broadly spans machine learning, including deep learning, reinforcement learning, and generative AI, with applications in perception, world modeling, decision-making, control, and simulation for robotics, embodied intelligence, and autonomous systems. To date, I have authored over 40 papers published in leading journals and conferences across AI, robotics, and intelligent systems.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 We will organize a workshop on [Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026. See you in Denver, Colorado!
+- *2026.06*: &nbsp;🎉🎉 We will organize a workshop on [Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026. I will also give a talk at [From Labs to Life: Embodied Intelligence in the Wild Workshop](https://opendrivelab.com/cvpr2026/workshop). See you in Denver, Colorado!
 - *2026.05*: &nbsp;🎉🎉 Two papers on efficient VLA and 3D scene reconstruction have been accepted to ICML 2026!
 - *2026.03*: &nbsp;🎉🎉 Our paper on masked generation for traffic scenarios has been accepted to CVPR 2026 (Findings)!
 - *2025.11*: &nbsp;🎉🎉 Our paper on regulation-aware decision-making for autonomous driving with LLM has been accepted by AAAI 2026!
