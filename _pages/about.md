@@ -10,11 +10,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/). **Starting in Fall 2026, I will join North Carolina State University (NCSU) as an Assistant Professor, where I will launch the PARIS Lab (Physical AI, Robotics, and Intelligent Systems Lab).** Previously, I was a research intern at the [NVIDIA Research Autonomous Vehicle Group](https://research.nvidia.com/labs/avg/) and a visiting student researcher at UC Berkeley in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/). I earned my Ph.D. from Nanyang Technological University (NTU), where I conducted research in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan).
+I am an Assistant Professor at North Carolina State University (NCSU) and the Director of the PARIS Lab (Physical AI, Robotics, and Intelligent Systems Lab). **I am recruiting Ph.D. students for Fall 2027.** If you are interested, please send your CV and a brief research statement to [zhuang46@ncsu.edu](mailto:zhuang46@ncsu.edu). Previously, I was a postdoctoral scholar at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/), a research intern at the [NVIDIA Research Autonomous Vehicle Group](https://research.nvidia.com/labs/avg/), and a visiting student researcher at UC Berkeley in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/). I earned my Ph.D. from Nanyang Technological University (NTU), where I conducted research in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan).
 
-My research lies at the intersection of intelligent systems, robotics, and physical AI. I develop generalizable algorithms and systems that enable physical intelligent agents to perceive and understand the world, interact seamlessly with humans and complex environments, reason and make decisions, and execute dexterous actions in the physical world. My work broadly spans machine learning, including deep learning, reinforcement learning, and generative AI, with applications in perception, world modeling, decision-making, control, and simulation for robotics, embodied intelligence, and autonomous systems. To date, I have authored over 40 papers published in leading journals and conferences across AI, robotics, and intelligent systems.
+At the PARIS Lab, we aim to build physical intelligent agents that can perceive, reason, and act in the real world. Our research sits at the intersection of robotics, machine learning, and embodied AI, with a focus on foundation models, efficient learning, and human-centered intelligence. The lab currently pursues three major research directions:
+
+- **Embodied and Physical AI.** We develop efficient foundation models that unify perception, reasoning, understanding, and action for embodied agents. This includes vision-language-action (VLA) models, world models, and generative AI methods that enable agents to understand complex scenes, reason about long-horizon goals, and produce reliable actions under real-world constraints such as limited compute, latency, and data.
+- **Robotic Navigation and Manipulation.** We build foundation-model-based systems for mobile robots and manipulators to operate in unstructured environments. Our work spans visual navigation, dexterous manipulation, multi-modal scene understanding, and decision-making/control, with the goal of transferring strong semantic and geometric representations into robust closed-loop robot behaviors.
+- **Efficient and Adaptive Learning.** We study how robots can quickly adapt, interact, and learn from humans with limited supervision. This includes data-efficient fine-tuning, reinforcement learning, imitation learning, and human-in-the-loop adaptation, so that robots can personalize their behavior, improve through interaction, and generalize to new tasks, users, and environments.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 I joined North Carolina State University (NCSU) as an Assistant Professor and launched the PARIS Lab! I am recruiting Ph.D. students for Fall 2027 — welcome to join us!
 - *2026.06*: &nbsp;🎉🎉 We will organize a workshop on [Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026. I will also give a talk at [From Labs to Life: Embodied Intelligence in the Wild Workshop](https://opendrivelab.com/cvpr2026/workshop). See you in Denver, Colorado!
 - *2026.05*: &nbsp;🎉🎉 Two papers on efficient VLA and 3D scene reconstruction have been accepted to ICML 2026!
 - *2026.03*: &nbsp;🎉🎉 Our paper on masked generation for traffic scenarios has been accepted to CVPR 2026 (Findings)!
@@ -31,6 +36,21 @@ My research lies at the intersection of intelligent systems, robotics, and physi
 
 # 📝 Publications
 ## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/nuReasoning.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**
+
+Zhiyu Huang\*, Johnson Liu\*, Rui Song\*, Zewei Zhou, Ruining Yang, Yun Zhang, Tianhui Cai, Hanyin Zhang, Mingxuan Gao, Valeria Xu, Jiali Chen, Yishan Shen, Yiluan Guo, Tony (Xuewei) Qi, Jiaqi Ma
+
+**arXiv, 2026**
+
+[**Paper**](https://arxiv.org/abs/2605.31572) \| [**Project**](https://nureasoning.github.io/) \| [**Dataset**](https://huggingface.co/datasets/qixuewei/nuReasoning)
+
+- We introduce nuReasoning, a large-scale real-world long-tail driving dataset with 20K 20-second clips and rich reasoning annotations spanning spatial, decision, and counterfactual reasoning, enabling significantly improved reasoning and planning performance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/TICVLA.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -325,6 +345,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 
 ### Preprint
+- [nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving](https://arxiv.org/abs/2605.31572), **Zhiyu Huang\***, Johnson Liu\*, Rui Song\*, Zewei Zhou, Ruining Yang, Yun Zhang, Tianhui Cai, Hanyin Zhang, Mingxuan Gao, Valeria Xu, Jiali Chen, Yishan Shen, Yiluan Guo, Tony (Xuewei) Qi, Jiaqi Ma, **arXiv, 2026** [[Project](https://nureasoning.github.io/)] [[Dataset](https://huggingface.co/datasets/qixuewei/nuReasoning)]
+
 - [MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection](https://arxiv.org/abs/2510.24688), Yun Zhang, Zhaoliang Zheng, Johnson Liu, **Zhiyu Huang\***, Zewei Zhou, Zonglin Meng, Tianhui Cai, Jiaqi Ma, **arXiv, 2025** 
 
 # 🎖 Honors and Awards
