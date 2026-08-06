@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyu Huang"
-description              : "Incoming Assistant Professor at NCSU. Research on Physical AI, Robotics, and Intelligent Systems."
+description              : "Assistant Professor at NCSU. Research on Physical AI, Robotics, and Intelligent Systems."
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyu Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of California, Los Angeles"
-  location         : "Los Angeles, CA"
+  bio              : "North Carolina State University"
+  location         : "Raleigh, NC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aLZEVCsAAAAJ&hl=en"
-  email            : "zhiyuh@ucla.edu"
+  email            : "zhuang46@ncsu.edu"
   researchgate     : "https://www.researchgate.net/profile/Zhiyu-Huang-5"
   uri              :
   bitbucket        :
