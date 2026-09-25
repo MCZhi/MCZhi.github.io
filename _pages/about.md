@@ -19,6 +19,7 @@ At the PARIS Lab, we aim to build physical intelligent agents that can perceive,
 - **Efficient and Adaptive Learning.** We study how robots can quickly adapt, interact, and learn from humans with limited supervision. This includes data-efficient fine-tuning, reinforcement learning, imitation learning, and human-in-the-loop adaptation, so that robots can personalize their behavior, improve through interaction, and generalize to new tasks, users, and environments.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper on reasoning-centric dataset and benchmark for long-tail driving has been accepted at NeurIPS 2026!
 - *2026.08*: &nbsp;🎉🎉 I joined North Carolina State University (NCSU) as an Assistant Professor and launched the PARIS Lab! I am recruiting Ph.D. students for Fall 2027 — welcome to join us!
 - *2026.06*: &nbsp;🎉🎉 We will organize a workshop on [Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/cvpr2026/) at CVPR 2026. I will also give a talk at [From Labs to Life: Embodied Intelligence in the Wild Workshop](https://opendrivelab.com/cvpr2026/workshop). See you in Denver, Colorado!
 - *2026.05*: &nbsp;🎉🎉 Two papers on efficient VLA and 3D scene reconstruction have been accepted to ICML 2026!
@@ -29,9 +30,6 @@ At the PARIS Lab, we aim to build physical intelligent agents that can perceive,
 - *2025.09*: &nbsp;🎉🎉 Our paper on VLA model for end-to-end autonomus driving has been accepted by NeurIPS 2025!
 - *2025.06*: &nbsp;🎉🎉 Two papers on multi-agent cooperative perception and model training have been accepted for publication at ICCV 2025!
 - *2025.05*: &nbsp;🎉🎉 Honored to receive the NTU MAE Best PhD Thesis Award. Grateful for the recognition and support!
-- *2025.01*: &nbsp;🎉🎉 Our paper on generative driving policy and reinforcement learning fine-tuning has been accepted by ICRA 2025!
-- *2024.12*: &nbsp;🎉🎉 Our paper on hybrid prediction integrated planning for autonomous driving has been accepted by TPAMI!
-- *2024.09*: &nbsp;🎉🎉 Our paper on end-to-end driving benchmark has been accepted at NeurIPS 2024!
 
 
 # 📝 Publications
@@ -41,11 +39,11 @@ At the PARIS Lab, we aim to build physical intelligent agents that can perceive,
 
 **nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**
 
-Zhiyu Huang\*, Johnson Liu\*, Rui Song\*, Zewei Zhou, Ruining Yang, Yun Zhang, Tianhui Cai, Hanyin Zhang, Mingxuan Gao, Valeria Xu, Jiali Chen, Yishan Shen, Yiluan Guo, Tony (Xuewei) Qi, Jiaqi Ma
+Zhiyu Huang\*, Johnson Liu\*, Rui Song\*, Tony (Xuewei) Qi, Zewei Zhou, Ruining Yang, Yun Zhang, Tianhui Cai, Hanyin Zhang, Mingxuan Gao, Valeria Xu, Jiali Chen, Yishan Shen, Yiluan Guo, Jiaqi Ma
 
-**arXiv, 2026**
+**Neural Information Processing Systems (NeurIPS), 2026**
 
-[**Paper**](https://arxiv.org/abs/2605.31572) \| [**Project**](https://nureasoning.github.io/) \| [**Dataset**](https://huggingface.co/datasets/qixuewei/nuReasoning)
+[**Paper**](https://arxiv.org/abs/2605.31572) \| [**Project**](https://nureasoning.github.io/) \| [**Dataset**](https://huggingface.co/datasets/nureasoning/nuReasoning)
 
 - We introduce nuReasoning, a large-scale real-world long-tail driving dataset with 20K 20-second clips and rich reasoning annotations spanning spatial, decision, and counterfactual reasoning, enabling significantly improved reasoning and planning performance.
 </div>
